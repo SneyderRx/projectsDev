@@ -10,3 +10,15 @@
     float: left;
     color: wheat;
 }
+
+.h1{
+    color: blueviolet;
+    background-color: aqua;
+    font-size: 35px;
+}
+
+.p{
+    color: orange;
+    background-color: blue;
+    font-style: italic;
+}
